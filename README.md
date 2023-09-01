@@ -14,3 +14,6 @@ Problem Statement
 In this task, you'll make a basic social media webpage showing info about a random user. You'll
 use HTML, CSS, and JavaScript. The assignment is divided into three sub-assignments of
 increasing difficulty, and you can choose which one to do.
+
+Resources
+🔥 You can use random-user-API for your own work.
