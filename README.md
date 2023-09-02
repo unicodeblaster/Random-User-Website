@@ -1,4 +1,4 @@
-# Random-User-Website
+# xScientist Internship Entrance Assignments
 Random user generator is a practice website made with random user API. By this website you can generate a random user and get random informations.
 Description
 assignment aims to create an Random User app with front end .
@@ -17,3 +17,10 @@ increasing difficulty, and you can choose which one to do.
 
 Resources
 🔥 You can use random-user-API for your own work.
+
+xScientist Internship Entrance Assignments
+Project directories
+apps/frontend-assignment - Front-end assignment's implementation.
+Deployments
+Front-end Assignment: GitHub Pages
+
